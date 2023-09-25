@@ -20,4 +20,4 @@ This repository is meant to be the starting place for any new F' projects within
 
 
 # Acknowledgements
-Thanks to (Esteban Duran) [https://astroesteban.github.io/] for creating the F' devcontainer repo this was based on.
+Thanks to [Esteban Duran](https://astroesteban.github.io/) for creating the F' devcontainer repo this was based on.
